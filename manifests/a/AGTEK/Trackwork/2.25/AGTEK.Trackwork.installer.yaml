@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 Dumplings Mod
+# Automatically updated by the winget bot at 2025/Jul/17
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: AGTEK.Trackwork
@@ -18,6 +18,6 @@ ReleaseDate: 2025-07-01
 Installers:
 - Architecture: x64
   InstallerUrl: https://agtek.s3.amazonaws.com/Agtek/ikpzGj7tsvNe
-  InstallerSha256: 3EC75173C1D877F9EB35F0CE3F433C07FD84950BA35AF4FCD0E3A4D3560C636B
+  InstallerSha256: 57B8BD7F4322DD7CF926A805460B7228F1C6901CCD1E1340343547F4759C1894
 ManifestType: installer
 ManifestVersion: 1.10.0

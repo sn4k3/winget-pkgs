@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2025/Jun/26
+# Automatically updated by the winget bot at 2025/Jul/16
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: ScooterSoftware.BeyondCompare.5
@@ -157,14 +157,14 @@ Installers:
   Architecture: x64
   Scope: user
   InstallerUrl: https://www.scootersoftware.com/files/BCompare-cn-5.1.0.31016.exe
-  InstallerSha256: 30F848A92006AED4A49051E7C4F4257EED4B97C8D58D507ADEE47C565DA14647
+  InstallerSha256: 66B78EF3D2D5907C14DA07CAFF3152FBD2C6937679656E97E66D4AE80EE920D8
   InstallerSwitches:
     Custom: /CURRENTUSER
 - InstallerLocale: zh-TW
   Architecture: x64
   Scope: machine
   InstallerUrl: https://www.scootersoftware.com/files/BCompare-cn-5.1.0.31016.exe
-  InstallerSha256: 30F848A92006AED4A49051E7C4F4257EED4B97C8D58D507ADEE47C565DA14647
+  InstallerSha256: 66B78EF3D2D5907C14DA07CAFF3152FBD2C6937679656E97E66D4AE80EE920D8
   InstallerSwitches:
     Custom: /ALLUSERS
 - InstallerLocale: cs-CZ
@@ -241,14 +241,14 @@ Installers:
   Architecture: x64
   Scope: user
   InstallerUrl: https://www.scootersoftware.com/files/BCompare-kr-5.1.0.31016.exe
-  InstallerSha256: 7329A9F6813B5D7FB9B4C682B11B2C94CE1DD3882EF58E62FF7CECD005E2EF21
+  InstallerSha256: 5E357DD50BE12D29DF156041AF268720DC76CBFBD601A1B496A9227F590FB460
   InstallerSwitches:
     Custom: /CURRENTUSER
 - InstallerLocale: ko-KR
   Architecture: x64
   Scope: machine
   InstallerUrl: https://www.scootersoftware.com/files/BCompare-kr-5.1.0.31016.exe
-  InstallerSha256: 7329A9F6813B5D7FB9B4C682B11B2C94CE1DD3882EF58E62FF7CECD005E2EF21
+  InstallerSha256: 5E357DD50BE12D29DF156041AF268720DC76CBFBD601A1B496A9227F590FB460
   InstallerSwitches:
     Custom: /ALLUSERS
 - InstallerLocale: pt-PT

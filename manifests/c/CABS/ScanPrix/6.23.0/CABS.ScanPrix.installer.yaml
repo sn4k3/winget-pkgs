@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2025/Aug/07
+# Automatically updated by the winget bot at 2025/Aug/20
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: CABS.ScanPrix
@@ -7,6 +7,6 @@ InstallerType: nullsoft
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.scanprix.de/Setup/Setup_ScanPrix.exe
-  InstallerSha256: 7C0000784CA6FAC3946B835280305E27795B7D8A9552A753051056C0DD524D09
+  InstallerSha256: 4C1EB3490C2DAD673EC2D5687EE52E7C4AD03C66FF1BE88DB82085089E2AC6B3
 ManifestType: installer
 ManifestVersion: 1.10.0

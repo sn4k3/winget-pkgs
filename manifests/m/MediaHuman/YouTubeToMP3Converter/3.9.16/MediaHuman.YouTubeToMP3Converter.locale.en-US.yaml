@@ -25,6 +25,11 @@ Tags:
 - downloader
 - soundcloud
 - youtube
+ReleaseNotes: |-
+  - fixed Spotify link parsing
+  - fixed download from AudioMack
+  - fixed download from RuTube
+  - corrected downloading of wrong audio language from YouTube
 Documentations:
 - DocumentLabel: Guides
   DocumentUrl: https://www.mediahuman.com/howto/

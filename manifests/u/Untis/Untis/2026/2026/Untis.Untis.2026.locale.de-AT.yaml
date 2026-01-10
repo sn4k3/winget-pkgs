@@ -23,7 +23,7 @@ Tags:
 - bildung
 ReleaseNotes: |-
   Bug Fixes:
-  - Neue Totaloptimierung: Bei der Berechnung der idealen Verteilung von Schüler:innen traten numerische Fehler auf, wodurch die Optimierung vorzeitig abgebrochen wurde. (OPT-2424)
+  - WebUntis: Der Unterrichtsexport konnte trotz aktivierter Option in WebUntis nicht auf die alte Version zurückgestellt werden. (UN-9237)
 ReleaseNotesUrl: https://www.untis.at/fileadmin/downloads/2025/releasenotes.html
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0

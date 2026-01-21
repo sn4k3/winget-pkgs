@@ -4,6 +4,7 @@
 PackageIdentifier: Zen-Team.Zen-Browser.Twilight
 PackageVersion: 1.18t
 InstallerType: exe
+Scope: machine
 InstallModes:
 - interactive
 - silent
@@ -27,13 +28,18 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2026-01-07
+ProductCode: Zen Twilight
+ReleaseDate: 2026-01-21
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer.exe
-  InstallerSha256: CCF403397A5D7201EB4392447821D77D454B663DDBE41E9431C9CE9F1BBF5A64
+  InstallerSha256: B6CB0FE1664CC77F319EF18CE88A51DDDEFC6BEAD70B496CC25695E3D3C0371D
+  AppsAndFeaturesEntries:
+  - DisplayName: Zen Twilight (x64 en-US)
 - Architecture: arm64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer-arm64.exe
-  InstallerSha256: D26AC5FD5A3AF2567DF344FD6C9E3D94497624D68AE888FDFFE56508D6771251
+  InstallerSha256: D43AB3CA05F9652D99F0E57714615798B69C5A9ECE1A3771BAED55D083D91FB6
+  AppsAndFeaturesEntries:
+  - DisplayName: Zen Twilight (AArch64 en-US)
 ManifestType: installer
 ManifestVersion: 1.12.0
